@@ -1,0 +1,12 @@
+aiohttp~=3.10.0
+solana~=0.34.0
+solders~=0.21.0
+rich~=13.8.0
+construct~=2.10.68
+anchorpy~=0.20.1
+python-dotenv~=1.0.1
+requests~=2.32.3
+uvicorn~=0.30.6
+fastapi~=0.114.1
+colorama~=0.4.6
+based58~=0.1.1
